@@ -1,0 +1,10 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "rxjs": "^6.6.3",
+    "rxjs-compat": "^6.6.3"
+  }
+}
